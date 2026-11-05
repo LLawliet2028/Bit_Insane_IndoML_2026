@@ -1,0 +1,184 @@
+canonical_tag,total_count,n_raw_variants,raw_variants
+[breathing],23889,1,[breathing]
+horn,13234,2,<horn> | <horn sound>
+bird sound,10664,5,<bird sound> | <bird noise> | <birds sound> | <birds noise> | <bird voice>
+[inhaling],6603,1,[inhaling]
+music,5298,4,<music> | <music sound> | <music noise> | <music playing>
+child talking,5152,4,<child talking> | <children talking> | <kids talking> | <kid talking>
+vehicle noise,3992,3,<vehicle noise> | <vehicle sound> | <vehicles noise>
+bird squawking,3551,2,<bird squawking> | <birds squawking>
+insect noise,2763,2,<insect noise> | <insect sound>
+child yelling,2092,3,<child yelling> | <children yelling> | <kid yelling>
+baby talking,1393,1,<baby talking>
+animal sound,1348,2,<animal sound> | <animal noise>
+ringing,1333,6,<ringing> | <singing> | <ringing sound> | <song singing> | <singing song> | <ringing noise>
+barking,1299,1,<barking>
+[lip smacking],1271,3,[lip_smacking] | [lip smacking] | <lip smacking>
+beep,749,2,<beep> | <beep sound>
+child crying,697,2,<child crying> | <children crying>
+baby crying,679,1,<baby crying>
+phone ringing,607,1,<phone ringing>
+bird chirping,595,6,<bird chirping> | <birds chirping> | <birds chiming> | <bird chiming> | <birds crimping> | <bird cheering>
+bell,545,2,<bell> | <bell sound>
+dog barking,527,1,<dog barking>
+child noise,495,8,<child noise> | <children noise> | <child sound> | <child voice> | <children sound> | <children voice> | <children playing> | <child playing>
+fan whirring,335,2,<fan whirring> | <fan whirling>
+honking,234,1,<honking>
+[coughing],163,3,[coughing] | <coughing> | <coughing_sound>
+traffic noise,144,2,<traffic noise> | <traffic sound>
+baby sound,142,2,<baby sound> | <baby noise>
+machine noise,120,3,<machine noise> | <machine sound> | <machines sound>
+siren sound,113,2,<siren sound> | <siren noise>
+fan noise,97,2,<fan noise> | <fan sound>
+[nose blowing],96,2,[nose blowing] | <nose blowing>
+phone vibrating,96,3,<phone vibrating> | <phone vibration> | <phone vibrate>
+notification sound,92,2,<notification sound> | <notification noise>
+[throat clearing],87,4,[throat clearing] | <throat clearing> | <cleaning throat> | <throat cleaning>
+child laughing,85,2,<child laughing> | <child coughing>
+[sneezing],79,2,[sneezing] | <sneezing>
+vibrating,73,6,<vibrating> | <vibration sound> | <vibrating sound> | <vibration noise> | <vibration tone> | <vibrating noise>
+[exhaling],66,1,[exhaling]
+child shouting,64,4,<child shouting> | <children shouting> | <kids shouting> | <kid shouting>
+crow sound,62,3,<crow sound> | <cow sound> | <cow voice>
+whistle,61,3,<whistle> | <whistle sound> | <whistle noise>
+clicking,56,3,<clicking> | <clucking> | <clicking noise>
+vehicle horn,56,1,<vehicle horn>
+bell ringing,51,2,<bell ringing> | <bells ringing>
+cricket sound,51,2,<cricket sound> | <cricket noise>
+train sound,46,1,<train sound>
+crow cawing,45,3,<crow cawing> | <crow cawaing> | <crow clanking>
+phone sound,40,1,<phone sound>
+tv sound,38,3,<tv sound> | <tv noise> | <tv playing>
+mobile ringing,37,2,<mobile ringing> | <mobile ringtone>
+kids sound,36,4,<kids sound> | <kids voice> | <kids noise> | <kids playing>
+engine sound,35,1,<engine sound>
+buzzing,35,1,<buzzing>
+loudspeaker noise,35,2,<loudspeaker noise> | <loudspeaker sound>
+bike sound,33,2,<bike sound> | <bike noise>
+[yawning],31,2,[yawning] | <yawning>
+whistling,30,2,<whistling> | <whistling noise>
+buzzer noise,30,2,<buzzer noise> | [buzzer]
+mobile vibration,29,1,<mobile vibration>
+baby yelling,25,1,<baby yelling>
+train horn,24,2,<train horn> | <rail horn>
+hen sound,24,1,<hen sound>
+fan wind,23,1,<fan wind>
+[sniffing],21,2,[sniffing] | [sniffling]
+television sound,20,2,<television sound> | <television noise>
+goat sound,20,2,<goat sound> | <goat voice>
+motorcycle sound,20,2,<motorcycle sound> | <motorcycle noise>
+vehicle honking,18,1,<vehicle honking>
+cat sound,17,2,<cat sound> | <cat noise>
+phone notification,15,1,<phone notification>
+mic noise,14,2,<mic noise> | <mic sound>
+mobile sound,14,1,<mobile sound>
+snoring,13,2,<snoring> | [snorting]
+message tone,13,1,<message tone>
+child speaking,11,4,<child speaking> | <children speaking> | <children screaming> | <kids speaking>
+meow sound,11,1,<meow sound>
+mike,10,2,<mike> | <mike sound>
+rooster crowing,10,1,<rooster crowing>
+human noise,7,2,<human noise> | <human voice>
+ambulance sound,7,2,<ambulance sound> | <ambulance noise>
+song playing,7,1,<song playing>
+bug noise,7,2,<bug noise> | <bugs noise>
+prayer sound,7,1,<prayer sound>
+background music,7,1,<background music>
+car horn,6,1,<car horn>
+flute sound,6,1,<flute sound>
+rooster sound,6,1,<rooster sound>
+bike horn,6,1,<bike horn>
+cricket chirping,6,2,<cricket chirping> | <crickets chirping>
+baby coughing,5,2,<baby coughing> | <baby cooing>
+duck sound,5,1,<duck sound>
+phone beeping,5,1,<phone beeping>
+insect chirping,5,1,<insect chirping>
+insect buzzing,5,1,<insect buzzing>
+burping,5,2,<burping> | [burping]
+spitting,5,3,<spitting> | [spitting] | <spitting noise>
+motor noise,4,2,<motor noise> | <motor sound>
+baby laughing,4,1,<baby laughing>
+buffalo sound,4,1,<buffalo sound>
+crow squawking,4,1,<crow squawking>
+birds twittering,4,2,<birds twittering> | <bird twittering>
+goat bleating,4,1,<goat bleating>
+cock crowing,3,2,<cock crowing> | <cuckoo crowing>
+speaker sound,3,1,<speaker sound>
+drum sound,3,1,<drum sound>
+baby shouting,3,1,<baby shouting>
+bell chime,3,1,<bell chime>
+cawing,3,1,<cawing>
+doorbell sound,3,2,<doorbell sound> | <door bell>
+typing noise,3,2,<typing noise> | <typing sound>
+thumping,3,1,<thumping>
+frog noise,3,2,<frog noise> | <frog sound>
+baby screaming,2,1,<baby screaming>
+chimming sound,2,1,<chimming sound>
+[yawing],2,2,[yawing] | [cawing]
+bicycle bell,2,1,<bicycle bell>
+car sound,2,1,<car sound>
+human talking,2,1,<human talking>
+cat meowing,2,1,<cat meowing>
+phone snoozing,2,1,<phone snoozing>
+ticking sound,2,2,<ticking sound> | <ticking noise>
+child singing,2,1,<child singing>
+person singing,2,1,<person singing>
+ladies singing,2,1,<ladies singing>
+whistle blowing,2,1,<whistle blowing>
+squirrel noise,2,1,<squirrel noise>
+songs,2,1,<songs>
+clock noise,2,2,<clock noise> | <cock noise>
+tractor sound,2,1,<tractor sound>
+background song,2,1,<background song>
+alarm sound,2,1,<alarm sound>
+police siren,2,1,<police siren>
+[hiccup],2,1,[hiccup]
+kids screaming,2,2,<kids screaming> | <kid screaming>
+band sound,1,1,<band sound>
+bird cawing,1,1,<bird cawing>
+[nose clearing],1,1,[nose clearing]
+[nose sneezing],1,1,[nose sneezing]
+bird swelling,1,1,<bird swelling>
+aeroplane landing,1,1,<aeroplane landing>
+motor whirring,1,1,<motor whirring>
+cuckoo sound,1,1,<cuckoo sound>
+buzz noise,1,1,<buzz noise>
+car unlock noise,1,1,<car unlock noise>
+phone click,1,1,<phone click>
+duck quacking,1,1,<duck quacking>
+rickshaw horn,1,1,<rickshaw horn>
+hen cawing,1,1,<hen cawing>
+people singing,1,1,<people singing>
+clock ticking,1,1,<clock ticking>
+songs noise,1,1,<songs noise>
+stonewalling,1,1,<stonewalling>
+[hum],1,1,[hum]
+mantra chanting,1,1,<mantra chanting>
+human speaking,1,1,<human speaking>
+engineering noise,1,1,<engineering noise>
+kids crying,1,1,<kids crying>
+human singing,1,1,<human singing>
+people buzzing,1,1,<people buzzing>
+song sound,1,1,<song sound>
+children sounds,1,1,<children sounds>
+mobile beeping,1,1,<mobile beeping>
+beeping sound,1,1,<beeping sound>
+beetle noise,1,1,<beetle noise>
+bird sounds,1,1,<bird sounds>
+humming,1,1,<humming>
+hand pumping,1,1,<hand pumping>
+child humming,1,1,<child humming>
+[swallowing],1,1,[swallowing]
+fan running,1,1,<fan running>
+[young lick],1,1,[young_lick]
+gasping,1,1,<gasping>
+female inhaling,1,1,<female inhaling>
+chirping sound,1,1,<chirping sound>
+generator noise,1,1,<generator noise>
+factory noise,1,1,<factory noise>
+tickle sound,1,1,<tickle sound>
+sparrow sound,1,1,<sparrow sound>
+moaning,1,1,<moaning>
+motorcycle horn,1,1,<motorcycle horn>
+squirrel chirping,1,1,<squirrel chirping>
+[guessing],1,1,[guessing]

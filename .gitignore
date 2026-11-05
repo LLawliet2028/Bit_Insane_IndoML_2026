@@ -1,0 +1,27 @@
+﻿# data, caches, environments
+*cache*/
+atst_cache_*/
+beats_cache_*/
+wav_cache_16k_flac/
+input_data*/
+validation*/
+test/
+synth_*/
+submission/
+torch_gpu/
+unilm/
+audiossl/
+archive/
+# weights and archives (host on Hugging Face / Releases instead)
+*.pt
+*.ckpt
+*.zip
+*.flac
+*.wav
+*.npy
+# misc
+__pycache__/
+.ipynb_checkpoints/
+progress_*.txt
+.python_history
+.env
